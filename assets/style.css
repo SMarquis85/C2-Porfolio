@@ -1,42 +1,82 @@
 * {
-    box-sizing: border-box; 
+    box-sizing: border-box;
   }
   
   body {
-    font-family: Arial;
+    font-family: serif;
     margin: 0;
+  }
+  
+  header {
+    padding: 60px;
+    text-align: center;
+    background: #02503f;
+    color: #fff;
+  }
+  
+  nav {
+    display: flex;
+    background-color: #d8a47f;
+  }
+  
+  nav p {
+    padding: 14px 20px;
+    text-decoration: none;
   }
   
   main {
     display: flex;
-    flex-wrap: wrap;
-    margin-top: 2%;
   }
   
-  .main-header {
-    display: flex;
-    justify-content: space-between;
-    padding: 60px;
-    background: #13293d;
-    color: #fff;
-  }
-  
-  .card {
-    flex: 1 0 0px;
-    padding: 10px;
-    text-align: center;
-    border-style: solid;
-    border-width: 1px;
-  }
-  
-  .card header {
+  aside {
+    flex: 30%;
+    background-color: #b9c6ae;
     padding: 20px;
-    background: #13293d;
+    flex-wrap: wrap;
+  }
+  
+  section {
+    flex: 70%;
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  footer {
+    padding: 20px;
+    text-align: center;
+    background: #02503f;
     color: #fff;
   }
   
-  .card img {
+  /* Image Placeholders */
+  .sample-img {
+    background-color: #fff;
     width: 100%;
-    /* The client insists that images be at least 400px */
-    min-width: 400px;
+    padding: 20px;
+    height: 200px;
+    border: 1px solid black; 
   }
+  
+  /* When using `max-width` as the breakpoint, you must go from widest to narrowest to avoid conflict */
+  
+  /* Tablets - header changes color */
+  @media screen and (max-width: 992px) {
+    header {
+      background: #772014;
+    }
+  }
+  
+  /* Large smartphones - navbar changes color */
+  @media screen and (max-width: 768px) {
+    nav {
+      background-color: #bb8588;
+    }
+  }
+  
+  /* Small smartphones - image placeholders change color */
+  @media screen and (max-width: 576px) {
+    .sample-img {
+      background-color: #8ac4ff;
+    }
+  }
+  
