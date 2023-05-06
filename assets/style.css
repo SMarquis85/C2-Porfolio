@@ -11,18 +11,18 @@ body {
 header { 
   padding: 40px;
   text-align: center;
-  background: #13293d;
+  background: #9d1010;
   color: #fff;
 }
 
 nav {
   display: flex;
   flex-direction: row;
-  background-color: #d8a47f;
+  background-color: #4d2323;
 }
 
 nav a {
-  color: #13293d;
+  color: #ffffff;
   padding: 14px 20px;
   text-decoration: none;
   text-align: center;
@@ -35,7 +35,7 @@ main {
 
 aside {
   flex: 1;
-  background-color: #b9c6ae;
+  background-color: #b28a8a;
   padding: 20px;
 }
 
@@ -46,37 +46,35 @@ section {
 }
 
 .sample-img {
-  background-color: #fff;
-  width: 100%;
-  padding: 20px;
-  height: 200px;
-  border: 1px solid black;
+    width: 100%; /* you can use % */
+    height: auto;
 }
 
 footer {
   padding: 20px;
   text-align: center;
-  background: #13293d;
+  background: #9d1010;
   color: #fff;
 }
 
 @media screen and (max-width: 768px) {
-  /* Use flex-direction to stack the navbar, sidebar, and body */
+  /* use flex-direction to stack the navbar, sidebar, and body */
   main,
   nav {
     flex-direction: column;
   }
-  /* Make the sidebar stack below the body */
+  /* make the sidebar stack below the body */
   aside {
     order: 2;
   }
-  /* Change the header background */
+  /* change the header background */
   header {
     background: #772014;
   }
-  /* Change the navbar and footer background */
-  nav,
-  footer {
-    background-color: #bb8588;
+  /* change the navbar and footer background */
+  nav 
+  footer a {
+    background-color: #4d2323;
+    color: #ffffff;
   }
 }
