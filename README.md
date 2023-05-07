@@ -36,20 +36,20 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Final Work Review
 
-**"Keep the coding clean."** This action was applied to both HTML and CSS with the help of Patrick Lake(Tutor), Google, W3Schools. Looks cleaner, organised and much more easier to read. Advice on how to build a proper HTML page, from my first Challenge, has been applied to the HTML and CSS for this Challenge.
+**"Keep the coding clean."** This action was applied to both HTML and CSS with the help of Patrick Lake(Tutor), Google, W3Schools. Looks cleaner, organised and much more easier to read. Advice on how to build a proper HTML page, from my first Challenge, has been applied for this Challenge.
 
 > **(Challenge 2; CARL-VIRT-FSF-PT-04-2023, README.md 2023)**
 
 When my portfolio is being loaded you'll be presented with my name, my photo and a mini bio in the **about ()** section. Links to my profiles on GITHUB and LinkedIN have been added to a navigation bar. A Contact Information link was added as well but will redirect you to the bottom of the page, when clicked, where my mobile number and email are displayed.
 
-**GITHUB**, **LinkedIN** and the image shown on my page (**C1-Horiseon**) will redirect the viewer, when clicked, to my professional, social media sites and my first assignment.  
+**GITHUB**, **LinkedIN** and the image shown on my page (**C1-Horiseon**) will redirect the viewer, when clicked, to another tab showing my professional, social media sites and my first assignment.  
 
-Let's not forget that when the page is being viewed on various devices and screens, a responsive layout will adapt to the viewport. The following preview shows the web application's appearance when viewed on various devices. 
+Let's not forget that when the page is being viewed on various devices and screens, a responsive layout will adapt to the viewport. The following previews show the web application's appearance when viewed on various devices: 
 
-
+## Smartphones
 ![assets/images/C2-Portfolio1.png](assets/images/C2-Portfolio1.png)
 
-
+## Tablets, Laptops and Desktops
 ![assets/images/C2-Portfolio.png](assets/images/C2-Portfolio.png)
 
 
