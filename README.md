@@ -53,4 +53,4 @@ Let's not forget that when the page is being viewed on various devices and scree
 ![assets/images/C2-Portfolio.png](assets/images/C2-Portfolio.png)
 
 
-The final product can be viewed here: [C2-Portfolio](https://smarquis85.github.io/C1-Horiseon/)
+The final product can be viewed here: [C2-Portfolio](https://smarquis85.github.io/C2-Portfolio/)
