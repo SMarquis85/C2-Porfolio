@@ -3,6 +3,11 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+
 body {
   font-family: Arial;
   margin: 0;
@@ -75,6 +80,6 @@ footer {
   nav 
   footer a {
     background-color: #4d2323;
-    color: #ffffff;
+    color: #fff;
   }
 }
