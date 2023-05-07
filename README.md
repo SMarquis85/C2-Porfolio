@@ -14,7 +14,6 @@ I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
 ```
-
 ## Acceptance Criteria
 
 ```
@@ -45,7 +44,7 @@ When my portfolio is being loaded you'll be presented with my name, my photo and
 
 **GITHUB**, **LinkedIN** and the image shown on my page (**C1-Horiseon**) will redirect the viewer, when clicked, to my professional, social media sites and my first assignment.  
 
-Let's not forget that when the page is being viewed on various devices and screens, a responsive layout that adapts to the viewport. The following preview shows the web application's appearance when viewed on various devices. 
+Let's not forget that when the page is being viewed on various devices and screens, a responsive layout will adapt to the viewport. The following preview shows the web application's appearance when viewed on various devices. 
 
 
 ![assets/images/C2-Portfolio1.png](assets/images/C2-Portfolio1.png)
