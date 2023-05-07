@@ -46,10 +46,10 @@ When my portfolio is being loaded you'll be presented with my name, my photo and
 
 Let's not forget that when the page is being viewed on various devices and screens, a responsive layout will adapt to the viewport. The following previews show the web application's appearance when viewed on various devices: 
 
-## Smartphones
+### Smartphones
 ![assets/images/C2-Portfolio1.png](assets/images/C2-Portfolio1.png)
 
-## Tablets, Laptops and Desktops
+### Tablets, Laptops and Desktops
 ![assets/images/C2-Portfolio.png](assets/images/C2-Portfolio.png)
 
 
