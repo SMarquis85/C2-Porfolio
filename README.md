@@ -47,10 +47,10 @@ When my portfolio is being loaded you'll be presented with my name, my photo and
 Let's not forget that when the page is being viewed on various devices and screens, a responsive layout that adapts to the viewport. The following preview shows the web application's appearance when viewed on various devices. 
 
 
-![image](C:\Users\S.NA.THALIE_888\bootcamp\C2-Portfolio\assets\images\C2-Portfolio.png)
+![assets\images\C2-Portfolio1.png](assets\images\C2-Portfolio1.png)
 
 
-![image](C:\Users\S.NA.THALIE_888\bootcamp\C2-Portfolio\assets\images\C2-Portfolio1.png)
+![assets\images\C2-Portfolio.png](assets\images\C2-Portfolio.png)
 
 
 The final product can be viewed here: [C2-Portfolio](https://smarquis85.github.io/C1-Horiseon/)
