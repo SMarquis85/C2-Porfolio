@@ -36,15 +36,15 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Final Work Review
 
-**"Keep the coding clean."** This action was applied to both HTML and CSS with the help of Patrick Lake(Tutor), Google, W3Schools. Looks cleaner, organised and much more easier to read. Advice on how to build a stronger HTML page, from my first Challenge, has been applied.
+**"Keep the coding clean."** This action has applied to both HTML and CSS with the help of Patrick Lake(Tutor), Google and W3Schools. Looks cleaner, organised and easier to read.
 
 > **(Challenge 2; CARL-VIRT-FSF-PT-04-2023, README.md 2023)**
 
-When the portfolio is being loaded, the viewer will be presented with my name, my photo and a mini bio in the **about ()** section. Links to my profiles on GITHUB and LinkedIN have been added to a navigation bar. A Contact Information link has been added as well. This link will redirect the viewer to the bottom of the page, where my mobile number and email are being displayed.
+When the site is being loaded, the viewer will be presented with my name, my photo and a mini bio in the **about ()** section. Links to my profiles on GITHUB and LinkedIN have been added to the navigation bar. A Contact Information link will redirect the viewer to the bottom of the page, where my mobile number and email are being displayed.
 
-**GITHUB**, **LinkedIN** and the image shown on my page (**C1-Horiseon**) will redirect the viewer to another page. 
+**GITHUB**, **LinkedIN** and the image shown on the site (**C1-Horiseon**) will redirect the viewer to another page. 
 
-Let's not forget that when viewed on various devices and screens, a responsive layout will adapt to the viewport. The following previews show the web application's appearance when viewed on various devices: 
+Let's not forget that when viewed on various devices and screens, a responsive layout will adapt to the viewport. (See below) 
 
 ### Smartphones
 ![assets/images/C2-Portfolio1.png](assets/images/C2-Portfolio1.png)
@@ -53,4 +53,4 @@ Let's not forget that when viewed on various devices and screens, a responsive l
 ![assets/images/C2-Portfolio.png](assets/images/C2-Portfolio.png)
 
 
-The final product can be viewed here: [C2-Portfolio](https://smarquis85.github.io/C2-Portfolio/)
+The assignment can be viewed here: [C2-Portfolio](https://smarquis85.github.io/C2-Portfolio/)
