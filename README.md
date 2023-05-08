@@ -36,7 +36,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Final Work Review
 
-**"Keep the coding clean."** This action was applied to both HTML and CSS with the help of Patrick Lake(Tutor), Google, W3Schools. Looks cleaner, organised and much more easier to read. Advice on how to build a proper HTML page, from my first Challenge, has been applied for this Challenge.
+**"Keep the coding clean."** This action was applied to both HTML and CSS with the help of Patrick Lake(Tutor), Google, W3Schools. Looks cleaner, organised and much more easier to read. Advice on how to build a stronger HTML page, from my first Challenge, has been applied.
 
 > **(Challenge 2; CARL-VIRT-FSF-PT-04-2023, README.md 2023)**
 
