@@ -40,9 +40,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 > **(Challenge 2; CARL-VIRT-FSF-PT-04-2023, README.md 2023)**
 
-When my portfolio is being loaded you'll be presented with my name, my photo and a mini bio in the **about ()** section. Links to my profiles on GITHUB and LinkedIN have been added to a navigation bar. A Contact Information link was added as well but will redirect you to the bottom of the page, when clicked, where my mobile number and email are displayed.
+When the portfolio is being loaded the viewer will be presented with my name, my photo and a mini bio in the **about ()** section. Links to my profiles on GITHUB and LinkedIN have been added to a navigation bar. A Contact Information link was added as well that will redirect the viewer to the bottom of the page, where my mobile number and email are displayed.
 
-**GITHUB**, **LinkedIN** and the image shown on my page (**C1-Horiseon**) will redirect the viewer, when clicked, to another tab showing my professional, social media sites and my first assignment.  
+**GITHUB**, **LinkedIN** and the image shown on my page (**C1-Horiseon**) will redirect the viewer to the site. 
 
 Let's not forget that when the page is being viewed on various devices and screens, a responsive layout will adapt to the viewport. The following previews show the web application's appearance when viewed on various devices: 
 
